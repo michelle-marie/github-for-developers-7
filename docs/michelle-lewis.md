@@ -1,1 +1,1 @@
-blah blah blah
+Favorite color: blue
